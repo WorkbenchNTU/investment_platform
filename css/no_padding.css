@@ -8,10 +8,33 @@
 }
 .collar
 {
-	background-color: white
-
+	padding: 20px;
 }
 .inp
 {
 	font-family: "Microsoft YaHei"；
+}
+.cool
+{
+	padding:10px;
+	color: grey;
+}
+.have-some
+{
+	padding: 50px;
+}
+.white
+{
+	background-color: #2D484D;
+	color: grey;
+}
+.blue
+{
+	background-color: blue;
+	color: grey;
+}
+.block
+{
+	background-image: url(img/bg.jpg);
+
 }
